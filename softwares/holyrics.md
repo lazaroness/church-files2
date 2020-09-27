@@ -1,3 +1,6 @@
+# Link pagina de download
+https://holyrics.com.br/download.html
+
 # Arquivo de instalação ( Linux )
 https://holyrics.com.br/download/app/download-setup-linux.php
 
