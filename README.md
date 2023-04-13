@@ -9,6 +9,6 @@ gh repo clone lazaroness/church-files2
 
 Lazarone S. Santana
 
-www.lazaronesantana.com
+www.lazaronesantana.com / https://lazaroness.github.io
 
 lazarone.info.web@gmail.com
